@@ -6,9 +6,21 @@
     <description>Recent content on David Cheung</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 25 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>http://example.com/about/</link>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/about/</guid>
+      <description>Senior developer building and maintaining useful things through generous amounts of 🤔🤔🤔 and ☕️☕️☕️!!!
+Currently accruing an awesome amount of experience in laravel, doing daily migrations, defining eloquent models, custom artisan commands, front end development with blade templates &amp;amp; Vue components.
+When not working you can find me at a NodeJS Meetup, hiking, and otherwise enjoying life (✈️,🍻, 🍽).</description>
+    </item>
     
   </channel>
 </rss>
