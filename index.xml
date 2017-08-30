@@ -2,21 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Cheung</title>
-    <link>http://example.com/</link>
+    <link>/</link>
     <description>Recent content on David Cheung</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Aug 2017 22:04:47 -0400</lastBuildDate>
     
-	<atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
-      <link>http://example.com/about/</link>
-      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Tue, 29 Aug 2017 22:04:47 -0400</pubDate>
       
-      <guid>http://example.com/about/</guid>
+      <guid>/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>/about/</link>
+      <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
+      
+      <guid>/about/</guid>
       <description>Senior developer building useful things by writing clean code &amp;amp; utilizing design patterns, powered by generous amounts of 🤔🤔🤔 and ☕️☕️☕️!!! Curently working on the product team at Continuum Economics, accruing an awesome amount of experience here using PHP, Laravel, &amp;amp; Vue.
 When not working you can find me at a NodeJS Meetup, hiking, and otherwise enjoying life (✈️, 🍻, 🌮).</description>
     </item>
