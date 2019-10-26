@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Cheung</title>
-    <link>https://iamdavidcheung.com/</link>
+    <link>https://www.iamdavidcheung.com/</link>
     <description>Recent content on David Cheung</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 29 Aug 2017 22:04:47 -0400</lastBuildDate>
     
-	<atom:link href="https://iamdavidcheung.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.iamdavidcheung.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact</title>
-      <link>https://iamdavidcheung.com/contact/</link>
+      <link>https://www.iamdavidcheung.com/contact/</link>
       <pubDate>Tue, 29 Aug 2017 22:04:47 -0400</pubDate>
       
-      <guid>https://iamdavidcheung.com/contact/</guid>
+      <guid>https://www.iamdavidcheung.com/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>about</title>
-      <link>https://iamdavidcheung.com/about/</link>
+      <link>https://www.iamdavidcheung.com/about/</link>
       <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
       
-      <guid>https://iamdavidcheung.com/about/</guid>
+      <guid>https://www.iamdavidcheung.com/about/</guid>
       <description>Senior Software Engineer at Climb Credit, helping students build careers.
 Previously Head of Engineering at Continuum Economics, having fun &amp;amp; rapidly building product &amp;amp; tooling using PHP7, Python, Javascript, Laravel, &amp;amp; Vue.
 When not working you can find me at a variety of meetups, hiking, reading, and otherwise enjoying life (✈️, 🍻, 🌮).</description>

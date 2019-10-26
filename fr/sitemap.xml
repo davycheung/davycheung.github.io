@@ -3,30 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://iamdavidcheung.com/fr/</loc>
+    <loc>https://www.iamdavidcheung.com/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iamdavidcheung.com/"
+                href="https://www.iamdavidcheung.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://iamdavidcheung.com/fr/"
+                href="https://www.iamdavidcheung.com/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://iamdavidcheung.com/fr/tags/</loc>
+    <loc>https://www.iamdavidcheung.com/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iamdavidcheung.com/tags/"
+                href="https://www.iamdavidcheung.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://iamdavidcheung.com/fr/tags/"
+                href="https://www.iamdavidcheung.com/fr/tags/"
                 />
   </url>
   
