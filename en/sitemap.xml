@@ -28,6 +28,20 @@
   </url>
   
   <url>
+    <loc>https://www.iamdavidcheung.com/posts/1/01/posts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.iamdavidcheung.com/fr/posts/1/01/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iamdavidcheung.com/posts/1/01/posts/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.iamdavidcheung.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
