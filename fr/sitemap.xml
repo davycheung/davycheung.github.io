@@ -3,6 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.iamdavidcheung.com/fr/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iamdavidcheung.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.iamdavidcheung.com/fr/categories/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.iamdavidcheung.com/fr/</loc>
     <xhtml:link
                 rel="alternate"
@@ -13,20 +27,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.iamdavidcheung.com/fr/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.iamdavidcheung.com/fr/posts/1/01/posts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.iamdavidcheung.com/posts/1/01/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.iamdavidcheung.com/fr/posts/1/01/posts/"
                 />
   </url>
   

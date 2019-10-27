@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.iamdavidcheung.com/contact/</loc>
-    <lastmod>2017-08-29T22:04:47-04:00</lastmod>
+    <loc>https://www.iamdavidcheung.com/posts/2019/10/creating-iamdavidcheung.com-with-hugo/</loc>
+    <lastmod>2019-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.iamdavidcheung.com/posts/2014/09/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.iamdavidcheung.com/</loc>
-    <lastmod>2017-08-29T22:04:47-04:00</lastmod>
+    <lastmod>2019-10-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -23,26 +28,78 @@
   </url>
   
   <url>
+    <loc>https://www.iamdavidcheung.com/posts/</loc>
+    <lastmod>2019-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.iamdavidcheung.com/contact/</loc>
+    <lastmod>2017-08-29T22:04:47-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.iamdavidcheung.com/about/</loc>
     <lastmod>2017-03-09T13:19:25+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.iamdavidcheung.com/posts/1/01/posts/</loc>
+    <loc>https://www.iamdavidcheung.com/posts/2014/04/hugo-template-primer/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.iamdavidcheung.com/categories/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.iamdavidcheung.com/fr/posts/1/01/posts/"
+                href="https://www.iamdavidcheung.com/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.iamdavidcheung.com/posts/1/01/posts/"
+                href="https://www.iamdavidcheung.com/categories/"
                 />
   </url>
   
   <url>
+    <loc>https://www.iamdavidcheung.com/categories/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.iamdavidcheung.com/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.iamdavidcheung.com/posts/2014/04/getting-started-with-hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.iamdavidcheung.com/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.iamdavidcheung.com/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.iamdavidcheung.com/categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.iamdavidcheung.com/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.iamdavidcheung.com/tags/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -53,6 +110,16 @@
                 hreflang="en"
                 href="https://www.iamdavidcheung.com/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.iamdavidcheung.com/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.iamdavidcheung.com/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
